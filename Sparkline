@@ -1,0 +1,34 @@
+1. What is a Sparkline in Excel?
+
+Definition:
+
+          - A Sparkline is a small chart displayed inside a single cell in Excel. It is used to visually represent data trends and patterns.
+
+2. Types of Sparklines
+
+Excel has 3 types of Sparklines.
+
+1. Line Sparkline
+
+            Shows trends using a line. Useful for tracking sales, profit, and performance.
+
+2. Column Sparkline
+
+            Shows data using small vertical bars. Useful for comparing values.
+
+3. Win/Loss Sparkline
+
+            Shows positive and negative results using bars of equal height.
+
+Step-by-step process:
+1. Enter your data in Excel.
+2. Select an empty cell where you want the Sparkline.
+3. Go to the Insert tab.
+4. Find the Sparklines group.
+5. Choose Line, Column, or Win/Loss.
+6. Select the Data Range (B2:B6).
+7. Select the Location Range (for example, C2).
+8. Click OK.
+
+"C:\Users\Manoj E\Pictures\Screenshots\Screenshot 2026-10-31 174203.png"
+
